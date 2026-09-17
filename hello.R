@@ -4,7 +4,6 @@
 # 2. Taking marks as input and calculating total
 # 3. Taking marks directly as integers
 # 4. Listing and removing objects in R environment
-# 5. Reading an excel file
 
 #Ask the user to enter their name
 readline("Whats your name?")
@@ -66,12 +65,4 @@ ls()
 #Remove all objects from R environment
 rm(list=ls())
 
-
-marks <- read_excel("C:/Users/Faiqa Akram/OneDrive/Documents/Book1.xlsx")
-View(marks)
-
-marks <- read_excel("C:/Users/Faiqa Akram/OneDrive/Documents/Book1.xlsx")
-marks[ ,3]
-marks$GRADE
-sum(marks$marks)
 
