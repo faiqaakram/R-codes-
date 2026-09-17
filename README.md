@@ -8,10 +8,5 @@
    e. 'as.integer()' : Converts a value to an integer
    f. 'ls()' : Shows objects in environment
    g. 'rm()' : Removes object from environment
-   h. 'read_excel()' : Reads an excel file
-   i. 'View()' : Opens data in table form
-   j. 'marks[ ,3]' : Selects the 3rd column
-   k. 'marks$GRADE' : Selects the GRADE column
-   l. 'sum()' : Calculates the total/sum
    
    
